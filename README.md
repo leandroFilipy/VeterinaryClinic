@@ -17,41 +17,12 @@ Bem-vindo ao repositório **VeterinaryClinic**! Este sistema foi desenvolvido pa
 
 Este projeto utiliza as seguintes tecnologias e linguagens:
 
-- **Backend**: [Tecnologia principal utilizada no backend]
-- **Frontend**: [Tecnologia principal utilizada no frontend]
-- **Banco de Dados**: [Banco utilizado, ex.: MySQL, PostgreSQL]
+- **Backend**: JAVA
+- **Frontend**: Java Swing
+- **Banco de Dados**: MySQL
 
 ---
 
-## 💻 Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/leandroFilipy/VeterinaryClinic.git
-   ```
-
-2. Acesse o diretório do projeto:
-   ```bash
-   cd VeterinaryClinic
-   ```
-
-3. Instale as dependências:
-   ```bash
-   [Comando para instalar dependências, ex.: npm install, pip install -r requirements.txt]
-   ```
-
-4. Configure as variáveis de ambiente:
-   - Crie um arquivo `.env` baseado no arquivo `.env.example` e insira suas credenciais.
-
-5. Execute o projeto:
-   ```bash
-   [Comando para rodar o projeto, ex.: npm start, python main.py]
-   ```
-
-6. Acesse localmente:
-   - Abra o navegador e acesse `http://localhost:3000` (ou a porta configurada).
-
----
 
 ## 🤝 Contribuições
 
@@ -74,11 +45,6 @@ Contribuições são sempre bem-vindas! 🎉
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença [Nome da Licença]. Consulte o arquivo `LICENSE` para mais detalhes.
-
----
 
 ## 📞 Contato
 
@@ -86,7 +52,7 @@ Entre em contato com o desenvolvedor:
 
 - **LeandroFilipy**
 - [GitHub](https://github.com/leandroFilipy)
-- [Email](mailto:seu-email@example.com)
+- [Email](leandro_f_lima@estudante.sesisenai.org.br)
 
 ---
 
